@@ -1,6 +1,6 @@
 ## Notebooks for Code Repeatability
 
-These notebooks are located at this git repository: `https://git.dsa.missouri.edu/dsa-8680/su21/casestudy_Group9/tree/master/GroupProducts/Milestone6`.
+These notebooks contain the majority of the group's collective work on the project in an organized, easy to follow way.
 
 file/directory                         | description
 ---------------------------------------|-----------
